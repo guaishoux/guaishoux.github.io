@@ -1,6 +1,6 @@
 * [文档简介](/)
  * [选款网站](/use/install)
- * [购买流程](/use/install/liucheng)
+ * [购买流程](/use/liucheng)
  * [常见问题](/use/faq)
 * [主题文档](/)
  * [模板快速入门](/themes)
