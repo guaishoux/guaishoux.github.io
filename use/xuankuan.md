@@ -1,6 +1,6 @@
 ### 快速跳转链接
 * [文档简介](/)
- * [常见问题](/use/faq)
+* [常见问题](/use/faq)
 
 ![](../img/talanzhanshu.png)
 
@@ -18,7 +18,7 @@ https://www.talanzhanshu.com/?aff=tnLaA
 
 联系客户方法目前有3种
 
-- 点击网站底部的电报和LINE的图标，电报号是@lansirong，LINE是台湾本地的软件，跟国内微信一样。使用软件联系必须会魔法访问外网，不会的话就用下面的方法吧
+- 点击网站底部的电报或LINE的图标，电报号是@lansirong，LINE是台湾本地的软件，跟国内微信一样。使用软件联系必须会魔法访问外网，不会的话就用邮箱吧
 
 - 给客服发邮件，需要注册QQ邮箱，后面会写注册QQ邮箱的教程。客服邮箱是：Talanzhanshu@proton.me
 
@@ -27,7 +27,7 @@ https://www.talanzhanshu.com/?aff=tnLaA
 
 ![](../img/liucheng.png)
 
-
+可以长按图片保存到手机里放大查看
 
 ### 快速跳转链接
 * [文档简介](/)
