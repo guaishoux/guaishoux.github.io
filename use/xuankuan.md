@@ -1,3 +1,6 @@
+### 快速跳转链接
+* [文档简介](/)
+ * [常见问题](/use/faq)
 
 ![](../img/talanzhanshu.png)
 
@@ -23,3 +26,9 @@ https://www.talanzhanshu.com/?aff=tnLaA
 ### 购买流程
 
 ![](../img/liucheng.png)
+
+
+
+### 快速跳转链接
+* [文档简介](/)
+ * [常见问题](/use/faq)
