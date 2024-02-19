@@ -1,7 +1,6 @@
 
 ![](../img/talanzhanshu.png)
 
-
 ### 塔兰战术官方授权网站 TW
 https://www.talanzhanshu.com/?aff=tnLaA 
 
