@@ -1,4 +1,4 @@
-**Typecho**
+**常见问题汇总**
 
 **Typecho**是一个简单轻巧的博客程序。基于 `PHP` 使用多种数据库（`Mysql`、`PostgreSQL`、`SQLite`）储存数据，在 `GPL Version2` 许可证下发行的开源程序，使用 `SVN` 做版本管理。
 
