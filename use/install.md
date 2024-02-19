@@ -18,3 +18,8 @@ https://www.talanzhanshu.com/?aff=tnLaA
 - 点击网站底部的电报和LINE的图标，电报号是@lansirong，LINE是台湾本地的软件，跟国内微信一样。使用软件联系必须会魔法访问外网，不会的话就用下面的方法吧
 
 - 给客服发邮件，需要注册QQ邮箱，后面会写注册QQ邮箱的教程。客服邮箱是：Talanzhanshu@proton.me
+
+
+### 购买流程
+
+![](../img/liucheng.png)
